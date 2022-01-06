@@ -24,3 +24,5 @@ You can click the Preview link to take a look at your changes.
  <img align="center" alt="LCS-jetbrains" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
  <img align="center" alt="LCS -docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <img align="center" alt="LCS-ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+<img align="center" alt="LCS-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+   <img align="center" alt="LCS-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
