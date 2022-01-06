@@ -26,3 +26,17 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="LCS-ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
 <img align="center" alt="LCS-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
    <img align="center" alt="LCS-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://github.com/CaetanoLeandro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaetanoLeandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoLeandro&layout=compact&langs_count=7&theme=dark"/>
+
+  
+  
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
