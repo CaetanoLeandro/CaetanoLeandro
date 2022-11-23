@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @CaetanoLeandro
 
 - 👀 I’m interested in,
-I am a  student in the Systems Analysis course, Estácio de Sá.
-I have 10 years of experience as a mechatronics technician, but in this professional stage I am looking to migrate to the area I am studying. 
-I know I don't have a lot of experience in the area, but I have a great ability to learn fast. 
+Study Systems Analysis at Estácio de Sá University (8th semester).
+I have 10 years of experience as a Mechatronics Technician and just over 1 year as a Software Developer.
 
-- 🌱 I’m currently learning, C#/.NET, VueJs, Angular/Ts and Phyton/Flask.
+- 🌱 I’m currently learning, C#/.NET, Java, Phyton, NodeJs, VueJs, and AngularTs
 
 - 💞️ I’m looking to collaborate on,
 With what I'm learning, since, at the moment, I don't have a great deal of experience...
