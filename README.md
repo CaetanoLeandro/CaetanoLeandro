@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CaetanoLeandro
 
-- 👀 I’m interested in,
 Study Systems Analysis at Estácio de Sá University (8th semester).
 I have 10 years of experience as a Mechatronics Technician and just over 1 year as a Software Developer.
 
